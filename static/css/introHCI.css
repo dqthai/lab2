@@ -14,6 +14,7 @@
 body {
      border: 1px dotted gray;
      padding: 20px;
+     text-align: center;
 }
 
 .jumbotron {
@@ -38,6 +39,7 @@ body {
     background-color: #deebf7;
     padding: 20px;
     width: 525px;
+    text-align: center;
 }
 
 p {
@@ -51,4 +53,5 @@ p {
 
 #project1 {
     font-variant: small-caps;
+    
 }
